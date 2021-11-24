@@ -18,7 +18,7 @@ export const MappingDataUsersList = ({ nome, fotoPerfil, nomeArtigo, key }) => {
                             borderRadius: '10px',
                             width: '3.5em',
                             marginBottom: '0.5em',
-                            height: '4em'
+                            height: '5em'
                         }}
                     />
                     <label >
